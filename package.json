@@ -4,6 +4,7 @@
         "cors": "^2.8.5",
         "dotenv": "^16.0.3",
         "express": "*",
+        "helmet": "^6.0.1",
         "mongoose": "^6.9.1",
         "redis": "2.8.0"
     },
